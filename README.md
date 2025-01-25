@@ -1,1 +1,9 @@
-# Layoff-Analysis
+# Layoff Insights (2020-2023)
+
+This project focuses on analyzing layoffs that occurred between March 11, 2020, and March 6, 2023. The aim is to uncover trends and patterns in layoffs across various dimensions, including country, company, industry, year, and funding stage. The dataset was cleaned and prepared to ensure consistency and accuracy, followed by exploratory data analysis (EDA) to gain deeper insights into the data. MySQL was used extensively to perform queries and derive meaningful insights from the dataset.
+
+The analysis highlights significant trends, such as geographical distribution of layoffs, year-on-year patterns (comparing the early pandemic to post-pandemic periods), and the industries most affected. It also explores the relationship between funding stages and layoff trends. Data cleaning was a critical step, involving the removal of duplicates, handling missing values, and standardizing formats. Python, along with libraries like Pandas, Matplotlib, and Seaborn, was used for data preprocessing and visualization, while SQL handled the backend queries.
+
+Key findings from the project include insights into how the pandemic disproportionately affected industries like technology and startups, how layoffs varied by funding stage, and how certain countries saw higher rates of layoffs compared to others. Future plans for this project include integrating visualizations into an interactive dashboard, adding predictive modeling to forecast layoff trends, and expanding the analysis with external datasets such as macroeconomic indicators.
+
+This project can be reproduced by cloning the repository, installing the required dependencies, and running the provided SQL scripts and Jupyter notebooks. Contributions are welcome to further enhance the analysis or extend its scope. The project is licensed under the MIT License, and more details, including contact information, can be found in the repository.
